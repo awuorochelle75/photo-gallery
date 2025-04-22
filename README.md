@@ -25,5 +25,5 @@ npm start
 
 ## Creators 
 
- © All rights reserved to Presbury Wamue, Rochelle Awour and Neville Ng'ang'a ©
+ © All rights reserved to Presbury Wamae, Rochelle Awuor and Neville Ng'ang'a ©
 
