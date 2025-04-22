@@ -4,6 +4,8 @@ An interactive photo gallery that allows users to browse images and save their f
 
 
 ## Core Features 
+-   Allow user to view photos
+
 
 
 In the project directory, you can run:
